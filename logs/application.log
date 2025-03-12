@@ -1,0 +1,380 @@
+2025-03-12T03:23:41.231+09:00  INFO 21636 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 21636 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T03:23:41.235+09:00  INFO 21636 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T03:23:42.338+09:00  INFO 21636 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T03:23:42.355+09:00  INFO 21636 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T03:23:42.355+09:00  INFO 21636 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T03:23:42.415+09:00  INFO 21636 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T03:23:42.416+09:00  INFO 21636 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1117 ms
+2025-03-12T03:23:42.575+09:00  INFO 21636 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T03:23:43.105+09:00  INFO 21636 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T03:23:43.121+09:00  INFO 21636 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.637 seconds (process running for 3.467)
+2025-03-12T03:24:18.184+09:00  INFO 21636 --- [char-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T03:24:18.185+09:00  INFO 21636 --- [char-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T03:24:18.186+09:00  INFO 21636 --- [char-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T03:39:21.322+09:00  INFO 21636 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T03:39:21.695+09:00  INFO 21636 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T03:39:26.362+09:00  INFO 27364 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 27364 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T03:39:26.366+09:00  INFO 27364 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T03:39:27.543+09:00  INFO 27364 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T03:39:27.562+09:00  INFO 27364 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T03:39:27.563+09:00  INFO 27364 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T03:39:27.629+09:00  INFO 27364 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T03:39:27.630+09:00  INFO 27364 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1187 ms
+2025-03-12T03:39:27.789+09:00  INFO 27364 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T03:39:28.067+09:00  INFO 27364 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T03:39:28.076+09:00  INFO 27364 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.476 seconds (process running for 3.621)
+2025-03-12T03:39:32.414+09:00  INFO 27364 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T03:39:32.414+09:00  INFO 27364 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T03:39:32.415+09:00  INFO 27364 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T03:43:06.398+09:00  INFO 27364 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T03:43:07.142+09:00  INFO 27364 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T03:43:16.315+09:00  INFO 4512 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 4512 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T03:43:16.325+09:00  INFO 4512 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T03:43:18.809+09:00  INFO 4512 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T03:43:18.843+09:00  INFO 4512 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T03:43:18.843+09:00  INFO 4512 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T03:43:18.942+09:00  INFO 4512 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T03:43:18.943+09:00  INFO 4512 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2442 ms
+2025-03-12T03:43:19.174+09:00  INFO 4512 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T03:43:19.573+09:00  INFO 4512 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T03:43:19.586+09:00  INFO 4512 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 5.175 seconds (process running for 7.79)
+2025-03-12T03:43:30.276+09:00  INFO 4512 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T03:43:30.277+09:00  INFO 4512 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T03:43:30.278+09:00  INFO 4512 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T03:43:32.088+09:00  INFO 4512 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 4fe2fa09-5295-2132-251c-448975e93bc7 conntection
+2025-03-12T03:43:43.127+09:00  INFO 4512 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 4fe2fa09-5295-2132-251c-448975e93bc7 disconnection
+2025-03-12T09:51:14.414+09:00  INFO 4512 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T09:51:14.872+09:00  INFO 4512 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T09:51:21.588+09:00  INFO 27476 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 27476 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T09:51:21.591+09:00  INFO 27476 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T09:51:23.042+09:00  INFO 27476 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T09:51:23.057+09:00  INFO 27476 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T09:51:23.057+09:00  INFO 27476 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T09:51:23.116+09:00  INFO 27476 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T09:51:23.117+09:00  INFO 27476 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1455 ms
+2025-03-12T09:51:23.276+09:00  INFO 27476 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T09:51:23.553+09:00  INFO 27476 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T09:51:23.562+09:00  INFO 27476 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.728 seconds (process running for 3.649)
+2025-03-12T10:00:50.479+09:00  INFO 27476 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T10:00:50.491+09:00  INFO 27476 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T10:00:50.548+09:00  INFO 27476 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 56 ms
+2025-03-12T10:45:50.115+09:00  INFO 27476 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T10:45:51.352+09:00  INFO 27476 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T10:46:27.991+09:00  INFO 19616 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 19616 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T10:46:27.999+09:00  INFO 19616 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T10:46:30.672+09:00  INFO 19616 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T10:46:30.711+09:00  INFO 19616 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T10:46:30.711+09:00  INFO 19616 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T10:46:30.851+09:00  INFO 19616 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T10:46:30.852+09:00  INFO 19616 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2695 ms
+2025-03-12T10:46:31.220+09:00  INFO 19616 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T10:46:31.802+09:00  INFO 19616 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T10:46:31.824+09:00  INFO 19616 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 5.976 seconds (process running for 7.495)
+2025-03-12T10:46:36.022+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T10:46:36.023+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T10:46:36.024+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T10:46:36.107+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : 6f0fe815-a62e-3eb5-77ff-ff49473e6537 conntection
+2025-03-12T10:47:12.616+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : 6f0fe815-a62e-3eb5-77ff-ff49473e6537 disconnection
+2025-03-12T10:47:16.295+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 1ea97c3b-3d8d-bbf7-4ed8-c61d3e2b8049 conntection
+2025-03-12T10:47:19.842+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : 1ea97c3b-3d8d-bbf7-4ed8-c61d3e2b8049 disconnection
+2025-03-12T10:47:20.683+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-10] c.e.c.handlers.WebSocketChatHandler      : 8a4dcb93-ebc9-3864-718e-0d6e9d4622b7 conntection
+2025-03-12T10:47:21.561+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : 8a4dcb93-ebc9-3864-718e-0d6e9d4622b7 disconnection
+2025-03-12T10:47:22.248+09:00  INFO 19616 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : fb8f601a-f81d-6706-96e7-862443738433 conntection
+2025-03-12T10:48:24.855+09:00  INFO 19616 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T10:48:25.215+09:00  INFO 19616 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T10:48:25.223+09:00  INFO 19616 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : fb8f601a-f81d-6706-96e7-862443738433 disconnection
+2025-03-12T10:48:28.746+09:00  INFO 30276 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 30276 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T10:48:28.748+09:00  INFO 30276 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T10:48:29.712+09:00  INFO 30276 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T10:48:29.727+09:00  INFO 30276 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T10:48:29.728+09:00  INFO 30276 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T10:48:29.779+09:00  INFO 30276 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T10:48:29.779+09:00  INFO 30276 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 976 ms
+2025-03-12T10:48:29.895+09:00  INFO 30276 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T10:48:30.179+09:00  INFO 30276 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T10:48:30.186+09:00  INFO 30276 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.143 seconds (process running for 2.907)
+2025-03-12T10:48:36.972+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T10:48:36.972+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T10:48:36.973+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T10:48:39.253+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 9a2b4b50-f0f9-2739-c7af-b7a94a62a8eb conntection
+2025-03-12T10:48:40.981+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 9a2b4b50-f0f9-2739-c7af-b7a94a62a8eb disconnection
+2025-03-12T10:48:41.812+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : aa3c99bf-e2fd-c13d-8bc9-7081d9996017 conntection
+2025-03-12T10:48:45.834+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : aa3c99bf-e2fd-c13d-8bc9-7081d9996017 disconnection
+2025-03-12T10:50:45.250+09:00  INFO 30276 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : c38e7b2c-4ee4-5aaf-fa89-29af0f32fb54 conntection
+2025-03-12T10:55:49.287+09:00  INFO 30276 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T10:55:49.761+09:00  INFO 30276 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T10:55:49.800+09:00  INFO 30276 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : c38e7b2c-4ee4-5aaf-fa89-29af0f32fb54 disconnection
+2025-03-12T10:55:54.428+09:00  INFO 16232 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 16232 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T10:55:54.434+09:00  INFO 16232 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T10:55:56.070+09:00  INFO 16232 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T10:55:56.085+09:00  INFO 16232 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T10:55:56.085+09:00  INFO 16232 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T10:55:56.152+09:00  INFO 16232 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T10:55:56.153+09:00  INFO 16232 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1629 ms
+2025-03-12T10:55:56.303+09:00  INFO 16232 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T10:55:56.843+09:00  INFO 16232 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T10:55:56.858+09:00  INFO 16232 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 3.465 seconds (process running for 4.485)
+2025-03-12T10:56:00.511+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T10:56:00.512+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T10:56:00.512+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-03-12T10:56:03.634+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : 614236a2-b9ea-cbe0-327f-b1abc9bc97ae conntection
+2025-03-12T10:56:03.639+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : 614236a2-b9ea-cbe0-327f-b1abc9bc97ae sent :connected
+2025-03-12T10:56:10.180+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 614236a2-b9ea-cbe0-327f-b1abc9bc97ae disconnection
+2025-03-12T10:56:11.532+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : fad6ecc4-3f05-ea07-6842-7c1ddbe3fd36 conntection
+2025-03-12T10:56:11.534+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : fad6ecc4-3f05-ea07-6842-7c1ddbe3fd36 sent username:connected
+2025-03-12T10:56:31.545+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : fad6ecc4-3f05-ea07-6842-7c1ddbe3fd36 disconnection
+2025-03-12T10:56:45.302+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : 13c29184-604b-8701-4131-83dd435a8460 conntection
+2025-03-12T10:56:45.303+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-10] c.e.c.handlers.WebSocketChatHandler      : 13c29184-604b-8701-4131-83dd435a8460 sent username:connected
+2025-03-12T11:02:17.257+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-1] c.e.c.handlers.WebSocketChatHandler      : 13c29184-604b-8701-4131-83dd435a8460 disconnection
+2025-03-12T13:23:00.290+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 016c55c9-898c-8d1c-21f5-9748c3ec08fd conntection
+2025-03-12T13:23:00.311+09:00  INFO 16232 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 016c55c9-898c-8d1c-21f5-9748c3ec08fd sent :connected
+2025-03-12T13:29:40.755+09:00  INFO 16232 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T13:29:41.271+09:00  INFO 16232 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T13:29:41.369+09:00  INFO 16232 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : 016c55c9-898c-8d1c-21f5-9748c3ec08fd disconnection
+2025-03-12T13:29:51.222+09:00  INFO 24736 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 24736 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T13:29:51.226+09:00  INFO 24736 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T13:29:52.573+09:00  INFO 24736 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T13:29:52.596+09:00  INFO 24736 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T13:29:52.596+09:00  INFO 24736 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T13:29:52.666+09:00  INFO 24736 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T13:29:52.668+09:00  INFO 24736 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1380 ms
+2025-03-12T13:29:52.837+09:00  INFO 24736 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T13:29:53.151+09:00  INFO 24736 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T13:29:53.163+09:00  INFO 24736 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.804 seconds (process running for 7.1)
+2025-03-12T13:29:53.299+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T13:29:53.300+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T13:29:53.301+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T13:29:59.638+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 09fdf481-2e95-f31b-d415-75e6e14cee32 conntection
+2025-03-12T13:29:59.643+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 09fdf481-2e95-f31b-d415-75e6e14cee32 sent aa:connected
+2025-03-12T13:36:11.822+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 09fdf481-2e95-f31b-d415-75e6e14cee32 disconnection
+2025-03-12T13:36:22.065+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : a02857df-75e9-16cb-a236-f60e15363420 conntection
+2025-03-12T13:36:22.083+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : a02857df-75e9-16cb-a236-f60e15363420 sent :connected
+2025-03-12T13:37:41.561+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : c9eb2b7a-319d-e5a8-a7df-f40dd024dab4 conntection
+2025-03-12T13:37:41.562+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : c9eb2b7a-319d-e5a8-a7df-f40dd024dab4 sent :connected
+2025-03-12T13:37:46.909+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-10] c.e.c.handlers.WebSocketChatHandler      : c9eb2b7a-319d-e5a8-a7df-f40dd024dab4 disconnection
+2025-03-12T13:37:47.852+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-1] c.e.c.handlers.WebSocketChatHandler      : ac26c44a-10fd-345d-3a28-c221baeeb837 conntection
+2025-03-12T13:37:47.853+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : ac26c44a-10fd-345d-3a28-c221baeeb837 sent sdf:connected
+2025-03-12T13:37:56.603+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : ac26c44a-10fd-345d-3a28-c221baeeb837 disconnection
+2025-03-12T13:37:57.219+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 63551bb3-22ae-a64f-5375-783ca25645fe conntection
+2025-03-12T13:37:57.220+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : 63551bb3-22ae-a64f-5375-783ca25645fe sent sdf:connected
+2025-03-12T13:37:58.132+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 63551bb3-22ae-a64f-5375-783ca25645fe disconnection
+2025-03-12T13:38:04.201+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : ab173e2d-772d-2c39-602a-d600c3cefb6b conntection
+2025-03-12T13:38:04.202+09:00  INFO 24736 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : ab173e2d-772d-2c39-602a-d600c3cefb6b sent sdf:connected
+2025-03-12T13:41:03.564+09:00  INFO 24736 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T13:41:03.966+09:00  INFO 24736 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T13:41:04.005+09:00  INFO 24736 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : a02857df-75e9-16cb-a236-f60e15363420 disconnection
+2025-03-12T13:41:04.006+09:00  INFO 24736 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : ab173e2d-772d-2c39-602a-d600c3cefb6b disconnection
+2025-03-12T13:41:12.811+09:00  INFO 28668 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 28668 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T13:41:12.815+09:00  INFO 28668 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T13:41:14.071+09:00  INFO 28668 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T13:41:14.086+09:00  INFO 28668 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T13:41:14.086+09:00  INFO 28668 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T13:41:14.146+09:00  INFO 28668 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T13:41:14.146+09:00  INFO 28668 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1262 ms
+2025-03-12T13:41:14.333+09:00  INFO 28668 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T13:41:14.633+09:00  INFO 28668 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T13:41:14.643+09:00  INFO 28668 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 3.077 seconds (process running for 4.28)
+2025-03-12T13:41:16.728+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T13:41:16.728+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T13:41:16.729+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-03-12T13:41:19.652+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 136230a0-9a6d-07c1-1b9a-1bd15f2acc29 connection
+2025-03-12T13:41:19.658+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 136230a0-9a6d-07c1-1b9a-1bd15f2acc29 sent ㅁㅁ:connected
+2025-03-12T13:41:28.280+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 136230a0-9a6d-07c1-1b9a-1bd15f2acc29 disconnection
+2025-03-12T13:41:53.741+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 88dc917d-454a-4cdd-c680-01efe3827d4c connection
+2025-03-12T13:41:53.743+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 88dc917d-454a-4cdd-c680-01efe3827d4c sent aa:connected
+2025-03-12T13:42:30.387+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : 88dc917d-454a-4cdd-c680-01efe3827d4c disconnection
+2025-03-12T13:42:32.320+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : ccf9b180-13f0-0d77-ad12-90f492b32369 connection
+2025-03-12T13:42:32.322+09:00  INFO 28668 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : ccf9b180-13f0-0d77-ad12-90f492b32369 sent aa:connected
+2025-03-12T13:46:16.756+09:00  INFO 28668 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T13:46:17.272+09:00  INFO 28668 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T13:46:17.311+09:00  INFO 28668 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : ccf9b180-13f0-0d77-ad12-90f492b32369 disconnection
+2025-03-12T13:46:23.121+09:00  INFO 13200 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 13200 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T13:46:23.126+09:00  INFO 13200 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T13:46:24.674+09:00  INFO 13200 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T13:46:24.691+09:00  INFO 13200 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T13:46:24.693+09:00  INFO 13200 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T13:46:24.760+09:00  INFO 13200 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T13:46:24.760+09:00  INFO 13200 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1545 ms
+2025-03-12T13:46:24.899+09:00  INFO 13200 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T13:46:25.183+09:00  INFO 13200 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T13:46:25.191+09:00  INFO 13200 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 3.077 seconds (process running for 4.133)
+2025-03-12T13:46:26.926+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T13:46:26.927+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T13:46:26.929+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T13:46:32.329+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 connection
+2025-03-12T13:46:32.335+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 sent 장하은:connected
+2025-03-12T13:46:34.975+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 sent 장하은:ㄴㄴ
+2025-03-12T13:46:37.222+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 sent 장하은:ㄹㄴㄹㄴㅇㄹ
+2025-03-12T13:46:38.710+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-3] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 sent 장하은:ㅁㄴㅇㄹㄴ
+2025-03-12T13:46:53.639+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 connection
+2025-03-12T13:46:53.640+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 sent ag:connected
+2025-03-12T13:46:57.050+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-10] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 sent ag:sdf
+2025-03-12T13:46:58.730+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-1] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 sent ag:sdfsf
+2025-03-12T13:46:59.786+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 sent ag:
+2025-03-12T13:47:00.882+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 3a7a2574-721a-368b-192a-79cd9d4c3351 disconnection
+2025-03-12T13:50:22.981+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 6463a718-00f5-473b-b8cc-53d7896af6d0 disconnection
+2025-03-12T13:50:30.596+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : 622ab7d9-33f5-e5d3-07e9-b175f0144a82 connection
+2025-03-12T13:50:30.598+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-7] c.e.c.handlers.WebSocketChatHandler      : 622ab7d9-33f5-e5d3-07e9-b175f0144a82 sent 장하은:connected
+2025-03-12T13:50:35.454+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-8] c.e.c.handlers.WebSocketChatHandler      : 622ab7d9-33f5-e5d3-07e9-b175f0144a82 sent 장하은:안녕
+2025-03-12T13:50:40.829+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-9] c.e.c.handlers.WebSocketChatHandler      : 622ab7d9-33f5-e5d3-07e9-b175f0144a82 sent 장하은:반가워
+2025-03-12T13:51:00.358+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-1] c.e.c.handlers.WebSocketChatHandler      : 7f728b37-21f3-0d51-d973-a4cc3008f862 connection
+2025-03-12T13:51:00.369+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-4] c.e.c.handlers.WebSocketChatHandler      : 7f728b37-21f3-0d51-d973-a4cc3008f862 sent 장하다:connected
+2025-03-12T13:51:03.093+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 7f728b37-21f3-0d51-d973-a4cc3008f862 sent 장하다:안녕
+2025-03-12T13:51:27.981+09:00  INFO 13200 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 7f728b37-21f3-0d51-d973-a4cc3008f862 sent 장하다:새로운 루틴으로 접근했어
+2025-03-12T13:56:16.725+09:00  INFO 13200 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T13:56:17.175+09:00  INFO 13200 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T13:56:17.247+09:00  INFO 13200 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : 7f728b37-21f3-0d51-d973-a4cc3008f862 disconnection
+2025-03-12T13:56:17.248+09:00  INFO 13200 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : 622ab7d9-33f5-e5d3-07e9-b175f0144a82 disconnection
+2025-03-12T13:56:22.991+09:00  INFO 24856 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 24856 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T13:56:23.000+09:00  INFO 24856 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T13:56:25.598+09:00  INFO 24856 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T13:56:25.636+09:00  INFO 24856 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T13:56:25.637+09:00  INFO 24856 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T13:56:25.771+09:00  INFO 24856 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T13:56:25.772+09:00  INFO 24856 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2637 ms
+2025-03-12T13:56:26.084+09:00  INFO 24856 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T13:56:26.631+09:00  INFO 24856 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T13:56:26.652+09:00  INFO 24856 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 5.511 seconds (process running for 6.761)
+2025-03-12T13:56:31.247+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T13:56:31.247+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T13:56:31.248+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T13:56:44.144+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 5a5ad702-65dd-406e-598a-99d4ea8ca478 connection
+2025-03-12T13:56:44.148+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 5a5ad702-65dd-406e-598a-99d4ea8ca478 sent 장하은:connected
+2025-03-12T13:56:46.328+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 5a5ad702-65dd-406e-598a-99d4ea8ca478 sent 장하은:안녕
+2025-03-12T13:56:59.374+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-1] c.e.c.handlers.WebSocketChatHandler      : 7c1575b8-1d14-609f-853d-25b445f5b458 connection
+2025-03-12T13:56:59.375+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-2] c.e.c.handlers.WebSocketChatHandler      : 7c1575b8-1d14-609f-853d-25b445f5b458 sent 장하다:connected
+2025-03-12T13:57:05.200+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-6] c.e.c.handlers.WebSocketChatHandler      : 7c1575b8-1d14-609f-853d-25b445f5b458 sent 장하다:안녕
+2025-03-12T13:57:09.451+09:00  INFO 24856 --- [char-service] [http-nio-8080-exec-5] c.e.c.handlers.WebSocketChatHandler      : 5a5ad702-65dd-406e-598a-99d4ea8ca478 sent 장하은:반가워
+2025-03-12T14:19:08.430+09:00  INFO 24856 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:19:08.903+09:00  INFO 24856 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:19:08.969+09:00  INFO 24856 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : 7c1575b8-1d14-609f-853d-25b445f5b458 disconnection
+2025-03-12T14:19:08.971+09:00  INFO 24856 --- [char-service] [SpringApplicationShutdownHook] c.e.c.handlers.WebSocketChatHandler      : 5a5ad702-65dd-406e-598a-99d4ea8ca478 disconnection
+2025-03-12T14:19:21.397+09:00  INFO 30412 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 30412 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:19:21.403+09:00  INFO 30412 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:19:24.421+09:00  INFO 30412 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:19:24.445+09:00  INFO 30412 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:19:24.446+09:00  INFO 30412 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:19:24.530+09:00  INFO 30412 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:19:24.531+09:00  INFO 30412 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2993 ms
+2025-03-12T14:19:24.951+09:00  INFO 30412 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:19:25.234+09:00  INFO 30412 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:19:25.235+09:00  INFO 30412 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@2abc8034]]
+2025-03-12T14:19:25.236+09:00  INFO 30412 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:19:25.264+09:00  INFO 30412 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:19:25.274+09:00  INFO 30412 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 5.209 seconds (process running for 6.622)
+2025-03-12T14:19:55.534+09:00  INFO 30412 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:19:55.536+09:00  INFO 30412 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:19:55.545+09:00  INFO 30412 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2025-03-12T14:20:25.250+09:00  INFO 30412 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[2 current WS(2)-HttpStream(0)-HttpPoll(0), 2 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(2)-CONNECTED(2)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 15, active threads = 0, queued tasks = 0, completed tasks = 15], outboundChannel[pool size = 2, active threads = 0, queued tasks = 0, completed tasks = 2], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
+2025-03-12T14:22:29.079+09:00  INFO 30412 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:22:30.057+09:00  INFO 30412 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:22:30.108+09:00  INFO 30412 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2025-03-12T14:22:30.110+09:00  INFO 30412 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@2abc8034]]
+2025-03-12T14:22:30.111+09:00  INFO 30412 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2025-03-12T14:22:47.552+09:00  INFO 24096 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 24096 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:22:47.560+09:00  INFO 24096 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:22:50.557+09:00  INFO 24096 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:22:50.592+09:00  INFO 24096 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:22:50.593+09:00  INFO 24096 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:22:50.724+09:00  INFO 24096 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:22:50.725+09:00  INFO 24096 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3019 ms
+2025-03-12T14:22:51.361+09:00  INFO 24096 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:22:52.013+09:00  INFO 24096 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:22:52.020+09:00  INFO 24096 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7bc6935c]]
+2025-03-12T14:22:52.023+09:00  INFO 24096 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:22:52.093+09:00  INFO 24096 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:22:52.191+09:00  INFO 24096 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 6.726 seconds (process running for 9.754)
+2025-03-12T14:22:52.425+09:00  INFO 24096 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:22:52.426+09:00  INFO 24096 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:22:52.428+09:00  INFO 24096 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T14:23:52.010+09:00  INFO 24096 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[3 current WS(3)-HttpStream(0)-HttpPoll(0), 3 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(3)-CONNECTED(3)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 24], outboundChannel[pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 3], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
+2025-03-12T14:25:09.237+09:00  INFO 24096 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:25:10.113+09:00  INFO 24096 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:25:10.124+09:00  INFO 24096 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2025-03-12T14:25:10.124+09:00  INFO 24096 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7bc6935c]]
+2025-03-12T14:25:10.124+09:00  INFO 24096 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2025-03-12T14:25:23.113+09:00  INFO 28680 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 28680 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:25:23.121+09:00  INFO 28680 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:25:26.981+09:00  INFO 28680 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:25:27.019+09:00  INFO 28680 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:25:27.020+09:00  INFO 28680 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:25:27.172+09:00  INFO 28680 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:25:27.174+09:00  INFO 28680 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3909 ms
+2025-03-12T14:25:27.962+09:00  INFO 28680 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:25:28.510+09:00  INFO 28680 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:25:28.516+09:00  INFO 28680 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@3443e476]]
+2025-03-12T14:25:28.517+09:00  INFO 28680 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:25:28.576+09:00  INFO 28680 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:25:28.597+09:00  INFO 28680 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 7.192 seconds (process running for 9.228)
+2025-03-12T14:25:28.835+09:00  INFO 28680 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:25:28.837+09:00  INFO 28680 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:25:28.840+09:00  INFO 28680 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-03-12T14:26:28.501+09:00  INFO 28680 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[3 current WS(3)-HttpStream(0)-HttpPoll(0), 4 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(4)-CONNECTED(4)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 36], outboundChannel[pool size = 5, active threads = 0, queued tasks = 0, completed tasks = 5], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
+2025-03-12T14:30:21.087+09:00  INFO 28680 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:30:21.464+09:00  INFO 28680 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:30:21.495+09:00  INFO 28680 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2025-03-12T14:30:21.496+09:00  INFO 28680 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@3443e476]]
+2025-03-12T14:30:21.496+09:00  INFO 28680 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2025-03-12T14:30:28.387+09:00  INFO 15312 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 15312 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:30:28.392+09:00  INFO 15312 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:30:30.391+09:00  INFO 15312 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:30:30.416+09:00  INFO 15312 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:30:30.416+09:00  INFO 15312 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:30:30.504+09:00  INFO 15312 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:30:30.505+09:00  INFO 15312 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2020 ms
+2025-03-12T14:30:30.896+09:00  INFO 15312 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:30:31.184+09:00  INFO 15312 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:30:31.185+09:00  INFO 15312 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7bc58891]]
+2025-03-12T14:30:31.187+09:00  INFO 15312 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:30:31.218+09:00  INFO 15312 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:30:31.227+09:00  INFO 15312 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 4.077 seconds (process running for 5.305)
+2025-03-12T14:30:31.548+09:00  INFO 15312 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:30:31.548+09:00  INFO 15312 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:30:31.549+09:00  INFO 15312 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T14:31:31.249+09:00  INFO 15312 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[3 current WS(3)-HttpStream(0)-HttpPoll(0), 4 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(4)-CONNECTED(4)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 30], outboundChannel[pool size = 5, active threads = 0, queued tasks = 0, completed tasks = 5], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
+2025-03-12T14:44:23.998+09:00  INFO 15312 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:44:24.915+09:00  INFO 15312 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:44:24.994+09:00  INFO 15312 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2025-03-12T14:44:24.996+09:00  INFO 15312 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7bc58891]]
+2025-03-12T14:44:24.997+09:00  INFO 15312 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2025-03-12T14:44:40.877+09:00  INFO 1128 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 1128 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:44:40.881+09:00  INFO 1128 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:44:42.934+09:00  INFO 1128 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:44:42.953+09:00  INFO 1128 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:44:42.954+09:00  INFO 1128 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:44:43.039+09:00  INFO 1128 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:44:43.040+09:00  INFO 1128 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2072 ms
+2025-03-12T14:44:43.481+09:00  INFO 1128 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:44:43.817+09:00  INFO 1128 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:44:43.819+09:00  INFO 1128 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7a8341c1]]
+2025-03-12T14:44:43.821+09:00  INFO 1128 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:44:43.874+09:00  INFO 1128 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:44:43.892+09:00  INFO 1128 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 4.085 seconds (process running for 5.732)
+2025-03-12T14:44:43.994+09:00  INFO 1128 --- [char-service] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:44:43.996+09:00  INFO 1128 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:44:43.997+09:00  INFO 1128 --- [char-service] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-03-12T14:45:43.821+09:00  INFO 1128 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[3 current WS(3)-HttpStream(0)-HttpPoll(0), 5 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(5)-CONNECTED(5)-DISCONNECT(1)], stompBrokerRelay[null], inboundChannel[pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 45], outboundChannel[pool size = 8, active threads = 0, queued tasks = 0, completed tasks = 8], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
+2025-03-12T14:54:25.284+09:00  INFO 1128 --- [char-service] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-12T14:54:25.674+09:00  INFO 1128 --- [char-service] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-12T14:54:25.722+09:00  INFO 1128 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2025-03-12T14:54:25.723+09:00  INFO 1128 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@7a8341c1]]
+2025-03-12T14:54:25.724+09:00  INFO 1128 --- [char-service] [SpringApplicationShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2025-03-12T14:54:30.479+09:00  INFO 6644 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Starting CharServiceApplication using Java 17.0.14 with PID 6644 (C:\Users\haeun\IdeaProjects\char-service\out\production\classes started by haeun in C:\Users\haeun\IdeaProjects\char-service)
+2025-03-12T14:54:30.482+09:00  INFO 6644 --- [char-service] [main] c.e.charservice.CharServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-03-12T14:54:31.687+09:00  INFO 6644 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-12T14:54:31.706+09:00  INFO 6644 --- [char-service] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-12T14:54:31.707+09:00  INFO 6644 --- [char-service] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-12T14:54:31.784+09:00  INFO 6644 --- [char-service] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-12T14:54:31.785+09:00  INFO 6644 --- [char-service] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1252 ms
+2025-03-12T14:54:32.145+09:00  INFO 6644 --- [char-service] [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-03-12T14:54:32.428+09:00  INFO 6644 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2025-03-12T14:54:32.429+09:00  INFO 6644 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@31f295b6]]
+2025-03-12T14:54:32.431+09:00  INFO 6644 --- [char-service] [main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2025-03-12T14:54:32.467+09:00  INFO 6644 --- [char-service] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-12T14:54:32.481+09:00  INFO 6644 --- [char-service] [main] c.e.charservice.CharServiceApplication   : Started CharServiceApplication in 2.726 seconds (process running for 3.611)
+2025-03-12T14:54:32.698+09:00  INFO 6644 --- [char-service] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-12T14:54:32.699+09:00  INFO 6644 --- [char-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-12T14:54:32.701+09:00  INFO 6644 --- [char-service] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-03-12T14:54:44.431+09:00  INFO 6644 --- [char-service] [clientInboundChannel-11] c.e.c.controllers.StompChatController    : {"sender":"haeun","message":"connected"} received
+2025-03-12T14:54:46.515+09:00  INFO 6644 --- [char-service] [clientInboundChannel-15] c.e.c.controllers.StompChatController    : {"sender":"haeun","message":"dfdg"} received
+2025-03-12T14:55:32.479+09:00  INFO 6644 --- [char-service] [MessageBroker-1] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[3 current WS(3)-HttpStream(0)-HttpPoll(0), 4 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(4)-CONNECTED(4)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 16, active threads = 0, queued tasks = 0, completed tasks = 33], outboundChannel[pool size = 7, active threads = 0, queued tasks = 0, completed tasks = 7], sockJsScheduler[pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 0]
