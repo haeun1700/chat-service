@@ -1,3 +1,8 @@
 spring:
   application:
     name : char-service
+logging:
+  file:
+    name: logs/application.log  # 로그 파일 경로 지정
+  level:
+    root: info  # 로그 레벨 설정 (debug, info, warn, error)
